@@ -1,0 +1,4 @@
+lechuga;1000
+tomate;1000
+
+queso;2500
